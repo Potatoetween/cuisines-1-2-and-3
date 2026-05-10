@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title> ZAMBIA'S CUISINES</title>
+        <style>
+            body{
+                background-color: darkmagenta;
+                font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+            }
+        </style>
+    </head>
+    <body>
+        <h1> Zambia's cuisine </h1>
+         <p> Name: <span class="highlight"> Nshima</span></p>
+         <img src="download (28).jpg" alt=" white lump with meat, soup and vegtables">
+    </body>
+</html>
